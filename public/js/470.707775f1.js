@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkxiaomi"]=self["webpackChunkxiaomi"]||[]).push([[470],{7470:(a,e,n)=>{n.r(e),n.d(e,{default:()=>l});var s=function(){var a=this,e=a._self._c;return e("div",[a._v(" 这是米圈 "),e("MiTabBar")],1)},i=[],r=n(2433);const t={name:"Discover",components:{MiTabBar:r.Z}},c=t;var o=n(1001),u=(0,o.Z)(c,s,i,!1,null,"5d629877",null);const l=u.exports}}]);
+//# sourceMappingURL=470.707775f1.js.map
